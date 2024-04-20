@@ -1,10 +1,9 @@
-> **Trabalho 1: processamento de fala e expressões regulares**
->
-> O trabalho consiste em desenvolver um buscador em áudio/vídeo. As
-> seguintes tarefas para construção do buscador devem ser cumpridas:
+**Trabalho 1: processamento de fala e expressões regulares**
 
-1.  **Transcrever o conteúdo de um vídeo/áudio: utilizar a transcrição
-    > automática do conteúdo da mídia;**
+O trabalho consiste em desenvolver um buscador em áudio/vídeo. As
+seguintes tarefas para construção do buscador devem ser cumpridas:
+
+1.  Transcrever o conteúdo de um vídeo/áudio: utilizar a transcrição automática do conteúdo da mídia;
 
 > O trecho de áudio utilizado foi extraído do Youtube Shorts no
 > [[link]{.underline}](https://www.youtube.com/shorts/CW3_ELv-jtI).
