@@ -5,14 +5,9 @@ seguintes tarefas para construção do buscador devem ser cumpridas:
 
 1.  Transcrever o conteúdo de um vídeo/áudio: utilizar a transcrição automática do conteúdo da mídia;
 
-> O trecho de áudio utilizado foi extraído do Youtube Shorts no
-> [[link]{.underline}](https://www.youtube.com/shorts/CW3_ELv-jtI).
-> Video completo no
-> [[link]{.underline}](https://www.youtube.com/watch?v=5t1vTLU7s40&t=182s&ab_channel=LexFridman).
-> A transcrição foi criada utilizando uma implementação do Whisper da
-> OpenAI via
-> [[Hugginface]{.underline}](https://huggingface.co/spaces/SteveDigital/free-fast-youtube-url-video-to-text-using-openai-whisper).
-> Segue transcrição:
+O trecho de áudio utilizado foi extraído do Youtube Shorts no [link](https://www.youtube.com/shorts/CW3_ELv-jtI).
+Video completo no [link](https://www.youtube.com/watch?v=5t1vTLU7s40&t=182s&ab_channel=LexFridman).
+A transcrição foi criada utilizando uma implementação do Whisper da OpenAI via [Hugginface](https://huggingface.co/spaces/SteveDigital/free-fast-youtube-url-video-to-text-using-openai-whisper). Segue transcrição:
 
 +-----------------------------------------------------------------------+
 | > There is a number of characteristics of intelligent behavior. For   |
